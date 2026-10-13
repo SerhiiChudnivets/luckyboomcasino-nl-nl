@@ -37,27 +37,31 @@
       "slots": [
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/f9d9fa6e6edaaaacfb32f7f172de5e41.webp",
+          "name": "Chaos Crew",
+          "Name": "Chaos Crew",
+          "logo_alt": "chaos crew"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/a20abb7d701a3081c75b5e213e7ea182.webp",
+          "name": "Threefold The Gold",
+          "Name": "Threefold The Gold",
+          "logo_alt": "threefold the gold"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/4bd0b666c75446646bd8b5e4588eedd0.webp",
+          "name": "Thai Blossoms",
+          "Name": "Thai Blossoms",
+          "logo_alt": "thai blossoms"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/337001b851219de5eb3f8fdcf8dd0b28.webp",
+          "name": "Serpent Gold",
+          "Name": "Serpent Gold",
+          "logo_alt": "serpent gold"
         }
       ],
       "bonuses": [
@@ -297,27 +301,31 @@
   "Slots": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/f9d9fa6e6edaaaacfb32f7f172de5e41.webp",
+      "name": "Chaos Crew",
+      "Name": "Chaos Crew",
+      "logo_alt": "chaos crew"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/a20abb7d701a3081c75b5e213e7ea182.webp",
+      "name": "Threefold The Gold",
+      "Name": "Threefold The Gold",
+      "logo_alt": "threefold the gold"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/4bd0b666c75446646bd8b5e4588eedd0.webp",
+      "name": "Thai Blossoms",
+      "Name": "Thai Blossoms",
+      "logo_alt": "thai blossoms"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/337001b851219de5eb3f8fdcf8dd0b28.webp",
+      "name": "Serpent Gold",
+      "Name": "Serpent Gold",
+      "logo_alt": "serpent gold"
     }
   ],
   "Bonuses": [
@@ -369,9 +377,9 @@
       "question": "Wat is de minimale uitbetaling bij LuckyBoom Casino?"
     }
   ],
-  "_generated_at": "2026-10-13T12:19:09.369Z",
+  "_generated_at": "2026-10-13T12:23:04.169Z",
   "_version": "1.0.0",
   "content_alt": "lucky boom casino bonus",
-  "_last_deploy": "2026-10-13T12:19:09.962Z",
-  "_deploy_trigger": "u4rb8d"
+  "_last_deploy": "2026-10-13T12:23:04.813Z",
+  "_deploy_trigger": "25qpxd"
 }
