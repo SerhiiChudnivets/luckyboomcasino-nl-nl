@@ -67,27 +67,31 @@
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
+          "name": "Sport Welcome Pack 300% up to €1200",
+          "Name": "Sport Welcome Pack 300% up to €1200",
+          "logo_alt": "Welcome Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/ac7e9cfbff64af271c1b585bbbb96a1d.webp",
+          "name": "VIP Club €30,000 and 1200 FS in rewards",
+          "Name": "VIP Club €30,000 and 1200 FS in rewards",
+          "logo_alt": "Reload Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
+          "name": "Cashback 15% and up to 7% rakeback",
+          "Name": "Cashback 15% and up to 7% rakeback",
+          "logo_alt": "Weekly Bonus"
         },
         {
           "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
+          "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
+          "name": "Drops Prize pool €600,000",
+          "Name": "Drops Prize pool €600,000",
+          "logo_alt": "Cashback Bonus"
         }
       ],
       "faq": [],
@@ -345,27 +349,31 @@
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/84b8bb6efb01f9fe942a68455c4a62db.webp",
+      "name": "Sport Welcome Pack 300% up to €1200",
+      "Name": "Sport Welcome Pack 300% up to €1200",
+      "logo_alt": "Welcome Bonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/ac7e9cfbff64af271c1b585bbbb96a1d.webp",
+      "name": "VIP Club €30,000 and 1200 FS in rewards",
+      "Name": "VIP Club €30,000 and 1200 FS in rewards",
+      "logo_alt": "Reload Bonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/ecc8727428ea72bf8a936a083ccaebe8.webp",
+      "name": "Cashback 15% and up to 7% rakeback",
+      "Name": "Cashback 15% and up to 7% rakeback",
+      "logo_alt": "Weekly Bonus"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/e8e32e9f5bba4b2b960098a8e5b37406.webp",
+      "name": "Drops Prize pool €600,000",
+      "Name": "Drops Prize pool €600,000",
+      "logo_alt": "Cashback Bonus"
     }
   ],
   "Reviews": null,
@@ -391,9 +399,9 @@
       "question": "Wat is de minimale uitbetaling bij LuckyBoom Casino?"
     }
   ],
-  "_generated_at": "2026-10-13T13:04:19.146Z",
+  "_generated_at": "2026-10-13T13:19:19.109Z",
   "_version": "1.0.0",
   "content_alt": "lucky boom casino bonus",
-  "_last_deploy": "2026-10-13T13:04:19.782Z",
-  "_deploy_trigger": "jl52o7"
+  "_last_deploy": "2026-10-13T13:19:19.899Z",
+  "_deploy_trigger": "1e7kl"
 }
