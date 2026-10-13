@@ -205,31 +205,49 @@
   "header_menu": [
     {
       "link": "/play/",
-      "label": "Applicatie",
+      "label": "Spellen",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Beoordeling",
+      "label": "Live",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Bonus",
+      "label": "Bonussen",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Gokkasten",
+      "label": "VIP",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Uitbetaling",
+      "label": "Sport",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Betalingen",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "App",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "FAQ",
       "submenu": [],
       "openInNewTab": false
     }
@@ -237,42 +255,52 @@
   "footer_menu": [
     {
       "link": "/play/",
-      "label": "Verantwoord spelen",
+      "label": "Terms & Conditions",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Privacybeleid",
+      "label": "Bonus Policy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Cookiebeleid",
+      "label": "Privacy Policy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Algemene voorwaarden",
+      "label": "Payment Policy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Contacten",
+      "label": "Cookie Policy",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Wedregels",
+      "label": "Contact",
       "submenu": [],
       "openInNewTab": false
     }
   ],
   "footer_images": [
+    {
+      "link": "https://www.gambleaware.org/",
+      "image": "/uploads/7b5af286adade20c01b9aee4e0251787.webp",
+      "image_alt": "be gamble aware"
+    },
+    {
+      "link": "/play/",
+      "image": "/uploads/bbf15b10671656850b4a6181ada2f5e0.webp",
+      "image_alt": "18+"
+    },
     {
       "link": "/play/",
       "image": "/uploads/6e4898443d8c7a6d3f85c8c699adf4b8.svg",
@@ -280,22 +308,8 @@
     },
     {
       "link": "/play/",
-      "image": "/uploads/657303d64f52b7d3416483142b9b416c.svg",
-      "image_alt": "skrill"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/7840ef82300a1f935a675de6720a46ea.svg",
-      "image_alt": "neosurf"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/726d0d161f25ded497bd904b95c8dafc.svg",
-      "image_alt": "bank transfer"
-    },
-    {
-      "link": "https://www.gambleaware.org/",
-      "image": "/uploads/d406c25a07780243e74569167c0997fd.webp"
+      "image": "/uploads/292521eb44c05ec0fdfefa6dbaa3dd0c.svg",
+      "image_alt": "apple pay"
     }
   ],
   "Slots": [
@@ -377,9 +391,9 @@
       "question": "Wat is de minimale uitbetaling bij LuckyBoom Casino?"
     }
   ],
-  "_generated_at": "2026-10-13T12:23:04.169Z",
+  "_generated_at": "2026-10-13T13:04:19.146Z",
   "_version": "1.0.0",
   "content_alt": "lucky boom casino bonus",
-  "_last_deploy": "2026-10-13T12:23:04.813Z",
-  "_deploy_trigger": "25qpxd"
+  "_last_deploy": "2026-10-13T13:04:19.782Z",
+  "_deploy_trigger": "jl52o7"
 }
