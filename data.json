@@ -178,14 +178,14 @@
   "home_name": "LuckyBoom Casino",
   "subdomains": null,
   "accent_color": "#334155",
-  "main_background": "#131b18",
-  "secondary_background": "#232b28",
-  "button_background": "#ffd900",
-  "button_text_color": "#000000",
+  "main_background": "#010101",
+  "secondary_background": "#1c2230",
+  "button_background": "#91f83c",
+  "button_text_color": "#010101",
   "text_color": "#ffffff",
-  "color_highlight_text": "#ffd900",
-  "color_main_btn_text": "#000000",
-  "cta_background": "#ffd900",
+  "color_highlight_text": "#1cd693",
+  "color_main_btn_text": "#010101",
+  "cta_background": "#91f83c",
   "logo": {
     "url": "/uploads/8b9666ee34032cc62fad36655618c821.svg",
     "alt": "lucky boom casino logo"
@@ -369,9 +369,9 @@
       "question": "Wat is de minimale uitbetaling bij LuckyBoom Casino?"
     }
   ],
-  "_generated_at": "2026-10-13T12:16:24.088Z",
+  "_generated_at": "2026-10-13T12:19:09.369Z",
   "_version": "1.0.0",
   "content_alt": "lucky boom casino bonus",
-  "_last_deploy": "2026-10-13T12:16:25.680Z",
-  "_deploy_trigger": "l5rl7"
+  "_last_deploy": "2026-10-13T12:19:09.962Z",
+  "_deploy_trigger": "u4rb8d"
 }
